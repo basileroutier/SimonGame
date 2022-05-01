@@ -1,0 +1,10 @@
+model\Model.class
+simon\Main.class
+controller\Controller.class
+model\Game.class
+module-info.class
+model\Game$1.class
+view\MenuStart.class
+view\View.class
+view\SoundEffect.class
+simon\SystemInfo.class
